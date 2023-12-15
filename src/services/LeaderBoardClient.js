@@ -2,7 +2,7 @@
 
 
 class LeaderBoardClient {
-    static HOST = "http://localhost:8081";
+    static HOST = "http://localhost:8000";
     static LEADER_BOARD_URL = "/leaderboard";
 
     static getLeaderBoard() {

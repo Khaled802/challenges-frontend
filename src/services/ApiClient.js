@@ -1,7 +1,7 @@
 
 
 class ApiClient {
-    static HOST = "http://localhost:8080";
+    static HOST = "http://localhost:8000";
     static GET_CHALLENGE = "/challenges/random";
     static POST_ATTEMPT = "/attempts";
     static GET_ATTEMPTS_BY_USER_ALIEN = "/attempts";
